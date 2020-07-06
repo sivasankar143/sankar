@@ -1,0 +1,13 @@
+.image{
+background: url("/image/task2.jpg") no-repeat center;
+background-size: cover;
+height: 880px;
+}
+ul li :hover{
+    padding-bottom: 6px;
+    border-bottom: 2px solid blue;
+
+}
+ul li a:hover{
+    color: blue !important;
+}
